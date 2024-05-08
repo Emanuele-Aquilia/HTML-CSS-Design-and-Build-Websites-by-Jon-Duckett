@@ -1,4 +1,8 @@
 # HTML-CSS-Design-and-Build-Websites-by-Jon-Duckett
+repository that I cloned so I can experiment with the example given in the book, and create some page on my own with some practical example.
+
+original README below
+
 This repo consists of example snippets from HTML &amp; CSS Design and Build Websites Book by Jon Duckett
 
 If you open the index.html file in your web browser you will be able to try all of the code examples from this one page.
