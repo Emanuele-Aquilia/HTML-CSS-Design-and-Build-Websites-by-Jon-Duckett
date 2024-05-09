@@ -1,5 +1,18 @@
 body{
     background-color: rgba(100, 100, 100, 0.5);
 }
-l1{
+table{
+  background-color: green;
+  border: 2px solid blue;
+}
+th, tr, td{
+    border: 2px solid black;
+}
+tr,th {
+    padding: 2px;
+    width: 8em;
+}
+td.lezione{
+    border: 2px solid black;
+    background-color: red;
 }
