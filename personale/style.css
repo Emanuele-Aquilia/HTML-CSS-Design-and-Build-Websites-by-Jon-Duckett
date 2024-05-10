@@ -1,5 +1,5 @@
 body{
-    background-color: rgba(100, 100, 100, 0.5);
+    background-color: rgb(99, 100, 106);
 }
 table{
   background-color: rgba(0, 256, 0, 0.5);
@@ -11,7 +11,7 @@ th, tr, td{
 }
 tr,th {
     padding: 2px;
-    width: 5em;
+    width: 63,7px;
 }
 td.lezione{
     padding: 5px;
@@ -19,13 +19,14 @@ td.lezione{
     background-color: red;
 }
 
-#orario{
+div.orario{
     float: left;
-    width: 530px;
+    width: 540px;
     border-right: 2px solid gray;
+    padding: 10px;
 }
 
-#testo{
+div.testo{
     float: left;
     width: 240px;
     padding: 10px;
@@ -33,6 +34,22 @@ td.lezione{
     border-bottom: 2px solid gray;
 }
 
-#aaa{
+p.aaa{
     display: inline;
+}
+
+div.mainbody{
+    margin: 0px auto;
+    width: 1000px;
+    overflow: auto;
+    background-color: rgb(86, 86, 94);
+}
+
+div.header{
+    margin: 0px auto;
+    width: 1000px;
+    height: 60px;
+    background-color: rgb(73, 75, 85);
+    text-align: center;
+
 }
